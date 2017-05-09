@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>JIMOTO</title>
+  <subtitle>地味なスキルを求める</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://jimoto.github.io/"/>
+  <updated>2017-05-07T16:16:02.730Z</updated>
+  <id>http://jimoto.github.io/</id>
+  
+  <author>
+    <name>Gary</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>junit note 170508</title>
+    <link href="http://jimoto.github.io/2017/05/08/junit-note-170508/"/>
+    <id>http://jimoto.github.io/2017/05/08/junit-note-170508/</id>
+    <published>2017-05-07T15:49:32.000Z</published>
+    <updated>2017-05-07T16:16:02.730Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="basic-JUnit-annotations"><a href="#basic-JUnit-annotations" class="headerlink" title="basic JUnit annotations"></a>basic JUnit annotations</h3><p>@BeforeClass – 最初运行<br>@Before – @Test 之前运行<br>@Test – test case<br>@After – @Test 之后运行<br>@AfterClass – 最后运行<br>引包举例：<br>import org.junit.Before;<br>import org.junit.Test;<br>import static org.junit.Assert;  </p>
+<h3 id="Class-Assert"><a href="#Class-Assert" class="headerlink" title="Class Assert"></a>Class Assert</h3><p>Assert类下面有最关键的一组静态方法，如：<br>fail(String msg)<br>可自己实现一个validate方法，如果false了，就<br>fail(“Should not happen”);</p>
+<p>其它还有<br>assertEquals(obj1, obj2)<br>assertArrayEquals(array1, array2)<br>assertTrue(boolean condition)<br>assertFalse(boolean condition)<br>assertNull(obj)<br>assertNotNull(obj)<br>assertSame(obj1, obj2)<br>assertNotSame(obj1, obj2)  </p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;basic-JUnit-annotations&quot;&gt;&lt;a href=&quot;#basic-JUnit-annotations&quot; class=&quot;headerlink&quot; title=&quot;basic JUnit annotations&quot;&gt;&lt;/a&gt;basic JUnit annot
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="http://jimoto.github.io/tags/Java/"/>
+    
+      <category term="Junit" scheme="http://jimoto.github.io/tags/Junit/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>junit&#39;s advantage</title>
+    <link href="http://jimoto.github.io/2017/05/06/junit-s-advantage/"/>
+    <id>http://jimoto.github.io/2017/05/06/junit-s-advantage/</id>
+    <published>2017-05-06T14:38:25.000Z</published>
+    <updated>2017-05-06T14:45:37.068Z</updated>
+    
+    <content type="html"><![CDATA[<p>以前几乎没用过Junit。因为感觉不到它哪里好。<br>现在想到了两点好处。先记下来，以后再验证。</p>
+<p>1.可以把test data保存下来；<br>2.重测时一起跑，节约时间。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;以前几乎没用过Junit。因为感觉不到它哪里好。&lt;br&gt;现在想到了两点好处。先记下来，以后再验证。&lt;/p&gt;
+&lt;p&gt;1.可以把test data保存下来；&lt;br&gt;2.重测时一起跑，节约时间。&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="http://jimoto.github.io/tags/Java/"/>
+    
+      <category term="Junit" scheme="http://jimoto.github.io/tags/Junit/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ノルウェイの森</title>
+    <link href="http://jimoto.github.io/2017/05/05/Norwegian-Wood/"/>
+    <id>http://jimoto.github.io/2017/05/05/Norwegian-Wood/</id>
+    <published>2017-05-05T03:28:40.000Z</published>
+    <updated>2017-05-05T10:36:50.361Z</updated>
+    
+    <content type="html"><![CDATA[<p>「ノルウェイの森」を読んでる。この本は読みかえす価値があると思う。</p>
+<p>でね、いまピンときたの！この本のfirst-person narratorは「The Great Gatsby」のとそっくりだ！<br>つまり<b>ワタナベはNick Carrawayのような人である</b>。<br>作者の村上さんがヒントを残してあります</p>
+<p>１、ワタナベが「The Great Gatsby」を三回も読んだことがあって<br>２、そしてワタナベは直子とキズキの時も永沢とハツミの時もカップルの間のバッファみたいな役をしていたことから、「The Great Gatsby」最初の数段落を思い浮かべた。</p>
+<p>これで、「The Great Gatsby」をも読みかえしたくなったなぁ！</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;「ノルウェイの森」を読んでる。この本は読みかえす価値があると思う。&lt;/p&gt;
+&lt;p&gt;でね、いまピンときたの！この本のfirst-person narratorは「The Great Gatsby」のとそっくりだ！&lt;br&gt;つまり&lt;b&gt;ワタナベはNick Carrawayのような
+    
+    </summary>
+    
+    
+      <category term="Books" scheme="http://jimoto.github.io/tags/Books/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>learning spring No.1</title>
+    <link href="http://jimoto.github.io/2017/05/04/learning-spring-No-1/"/>
+    <id>http://jimoto.github.io/2017/05/04/learning-spring-No-1/</id>
+    <published>2017-05-04T10:04:30.000Z</published>
+    <updated>2017-05-05T03:26:55.934Z</updated>
+    
+    <content type="html"><![CDATA[<p>先下载并解压<a href="https://spring.io/tools/" target="_blank" rel="external">Spring Tool Suite</a></p>
+<p>再下载并安装<a href="http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html" target="_blank" rel="external">Java SE Runtime Environment 8</a></p>
+<p>设置Java的环境变量(path, classpath)</p>
+<p>待续</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;先下载并解压&lt;a href=&quot;https://spring.io/tools/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Spring Tool Suite&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;再下载并安装&lt;a href=&quot;http://www.oracle.com
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="http://jimoto.github.io/tags/Java/"/>
+    
+      <category term="Spring" scheme="http://jimoto.github.io/tags/Spring/"/>
+    
+      <category term="Framework" scheme="http://jimoto.github.io/tags/Framework/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>deploy后需要等待</title>
+    <link href="http://jimoto.github.io/2017/05/02/after-deploy/"/>
+    <id>http://jimoto.github.io/2017/05/02/after-deploy/</id>
+    <published>2017-05-02T01:24:33.000Z</published>
+    <updated>2017-05-02T04:34:49.931Z</updated>
+    
+    <content type="html"><![CDATA[<p>deploy后由于缓存（本地的 and 网上的）原因，网站要么没更新，要么只更新了一部分，看起来问题多多。<br>这类问题不必放在心上。只要hexo s本地验证没问题就没问题。<br>比如昨晚我在本地调得好好的，而deploy后，不光blog背景是旧的，显示代码段的内容还莫名多出了个横向滚动条。但今早再看，一切都正常了！</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;deploy后由于缓存（本地的 and 网上的）原因，网站要么没更新，要么只更新了一部分，看起来问题多多。&lt;br&gt;这类问题不必放在心上。只要hexo s本地验证没问题就没问题。&lt;br&gt;比如昨晚我在本地调得好好的，而deploy后，不光blog背景是旧的，显示代码段的内容还莫
+    
+    </summary>
+    
+    
+      <category term="Hexo" scheme="http://jimoto.github.io/tags/Hexo/"/>
+    
+      <category term="Common" scheme="http://jimoto.github.io/tags/Common/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>对歌词</title>
+    <link href="http://jimoto.github.io/2017/05/01/shi0001/"/>
+    <id>http://jimoto.github.io/2017/05/01/shi0001/</id>
+    <published>2017-05-01T07:03:11.000Z</published>
+    <updated>2017-05-01T15:26:49.935Z</updated>
+    
+    <content type="html"><![CDATA[<p>游侠某 名远传 而今江湖谈<br>仇者多 友两三 但逢敌手难<br>雨尽碎 风如潮 出手引狂澜<br><b>雷轰鸣 梦方醒 钟声到客船</b></p>
+<p>前三句出自歌曲《明月天涯》（词：无比），<br>第四句是我对的，哈哈</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;游侠某 名远传 而今江湖谈&lt;br&gt;仇者多 友两三 但逢敌手难&lt;br&gt;雨尽碎 风如潮 出手引狂澜&lt;br&gt;&lt;b&gt;雷轰鸣 梦方醒 钟声到客船&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;前三句出自歌曲《明月天涯》（词：无比），&lt;br&gt;第四句是我对的，哈哈&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="打油诗" scheme="http://jimoto.github.io/tags/%E6%89%93%E6%B2%B9%E8%AF%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>図書館の日本語</title>
+    <link href="http://jimoto.github.io/2017/04/30/ja0001/"/>
+    <id>http://jimoto.github.io/2017/04/30/ja0001/</id>
+    <published>2017-04-30T12:11:11.000Z</published>
+    <updated>2017-05-01T15:29:13.391Z</updated>
+    
+    <content type="html"><![CDATA[<p>今日は図書館用語を学びました。</p>
+<p>本を借りる時は<br><b>貸し出しお願いします。</b><br>と言い、</p>
+<p>本を返す時は<br><b>返却お願いします。</b><br>と言います。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;今日は図書館用語を学びました。&lt;/p&gt;
+&lt;p&gt;本を借りる時は&lt;br&gt;&lt;b&gt;貸し出しお願いします。&lt;/b&gt;&lt;br&gt;と言い、&lt;/p&gt;
+&lt;p&gt;本を返す時は&lt;br&gt;&lt;b&gt;返却お願いします。&lt;/b&gt;&lt;br&gt;と言います。&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="日本語" scheme="http://jimoto.github.io/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>static blog building 1</title>
+    <link href="http://jimoto.github.io/2017/04/30/first-tec-blog/"/>
+    <id>http://jimoto.github.io/2017/04/30/first-tec-blog/</id>
+    <published>2017-04-30T04:56:38.000Z</published>
+    <updated>2017-05-01T15:00:46.907Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="YAML"><a href="#YAML" class="headerlink" title="YAML"></a>YAML</h3><p>md文件中tags处，多个tag间的分隔要用YAML语法。like this:<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">tags:</div><div class="line">- Hexo</div><div class="line">- Markdown</div><div class="line">- YAML</div></pre></td></tr></table></figure></p>
+<h3 id="Markdown"><a href="#Markdown" class="headerlink" title="Markdown"></a>Markdown</h3><p>##相当于第二大号的字。注意后面要加半角空格。</p>
+<p>链接要这样写[Hexo](<a href="https://hexo.io/" target="_blank" rel="external">https://hexo.io/</a>)<br>这里能显示出来是因为我在前面加了“\”，相当于转义符吧。</p>
+<p>代码段开始用``` bash<br>代码段结束用```</p>
+<h3 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a>Hexo</h3><h4 id="新文章"><a href="#新文章" class="headerlink" title="新文章"></a>新文章</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<h4 id="生成页面"><a href="#生成页面" class="headerlink" title="生成页面"></a>生成页面</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo g</div></pre></td></tr></table></figure>
+<h4 id="本地确认"><a href="#本地确认" class="headerlink" title="本地确认"></a>本地确认</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo s</div></pre></td></tr></table></figure>
+<h4 id="发布"><a href="#发布" class="headerlink" title="发布"></a>发布</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo d</div></pre></td></tr></table></figure>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;YAML&quot;&gt;&lt;a href=&quot;#YAML&quot; class=&quot;headerlink&quot; title=&quot;YAML&quot;&gt;&lt;/a&gt;YAML&lt;/h3&gt;&lt;p&gt;md文件中tags处，多个tag间的分隔要用YAML语法。like this:&lt;br&gt;&lt;figure class=&quot;high
+    
+    </summary>
+    
+    
+      <category term="Hexo" scheme="http://jimoto.github.io/tags/Hexo/"/>
+    
+      <category term="Markdown" scheme="http://jimoto.github.io/tags/Markdown/"/>
+    
+      <category term="YAML" scheme="http://jimoto.github.io/tags/YAML/"/>
+    
+  </entry>
+  
+</feed>

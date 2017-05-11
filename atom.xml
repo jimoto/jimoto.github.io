@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://jimoto.github.io/"/>
-  <updated>2017-05-09T03:45:25.075Z</updated>
+  <updated>2017-05-11T13:45:46.952Z</updated>
   <id>http://jimoto.github.io/</id>
   
   <author>
@@ -14,6 +14,56 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>快乐诗词选 002</title>
+    <link href="http://jimoto.github.io/2017/05/11/poem-002/"/>
+    <id>http://jimoto.github.io/2017/05/11/poem-002/</id>
+    <published>2017-05-11T13:39:51.000Z</published>
+    <updated>2017-05-11T13:45:46.952Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/imgs/poem002.jpg" alt="">  </p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/imgs/poem002.jpg&quot; alt=&quot;&quot;&gt;  &lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="诗词" scheme="http://jimoto.github.io/tags/%E8%AF%97%E8%AF%8D/"/>
+    
+      <category term="书法" scheme="http://jimoto.github.io/tags/%E4%B9%A6%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>快乐诗词选 001</title>
+    <link href="http://jimoto.github.io/2017/05/11/poem-001/"/>
+    <id>http://jimoto.github.io/2017/05/11/poem-001/</id>
+    <published>2017-05-11T13:35:51.000Z</published>
+    <updated>2017-05-11T13:44:44.070Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/imgs/poem001a.jpg" alt="">  </p>
+<p><img src="/imgs/poem001b.jpg" alt=""></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/imgs/poem001a.jpg&quot; alt=&quot;&quot;&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/imgs/poem001b.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="诗词" scheme="http://jimoto.github.io/tags/%E8%AF%97%E8%AF%8D/"/>
+    
+      <category term="书法" scheme="http://jimoto.github.io/tags/%E4%B9%A6%E6%B3%95/"/>
+    
+  </entry>
   
   <entry>
     <title>给博客减肥</title>
@@ -64,9 +114,9 @@
     </summary>
     
     
-      <category term="Java" scheme="http://jimoto.github.io/tags/Java/"/>
-    
       <category term="Junit" scheme="http://jimoto.github.io/tags/Junit/"/>
+    
+      <category term="Java" scheme="http://jimoto.github.io/tags/Java/"/>
     
   </entry>
   
@@ -90,9 +140,9 @@
     </summary>
     
     
-      <category term="Java" scheme="http://jimoto.github.io/tags/Java/"/>
-    
       <category term="Junit" scheme="http://jimoto.github.io/tags/Junit/"/>
+    
+      <category term="Java" scheme="http://jimoto.github.io/tags/Java/"/>
     
   </entry>
   
@@ -167,9 +217,9 @@
     </summary>
     
     
-      <category term="Common" scheme="http://jimoto.github.io/tags/Common/"/>
-    
       <category term="Hexo" scheme="http://jimoto.github.io/tags/Hexo/"/>
+    
+      <category term="Common" scheme="http://jimoto.github.io/tags/Common/"/>
     
   </entry>
   

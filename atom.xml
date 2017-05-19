@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://jimoto.github.io/"/>
-  <updated>2017-05-16T03:05:24.259Z</updated>
+  <updated>2017-05-19T04:57:00.927Z</updated>
   <id>http://jimoto.github.io/</id>
   
   <author>
@@ -14,6 +14,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>追忆似水年华 摘抄01</title>
+    <link href="http://jimoto.github.io/2017/05/19/remembrance01/"/>
+    <id>http://jimoto.github.io/2017/05/19/remembrance01/</id>
+    <published>2017-05-19T04:53:02.000Z</published>
+    <updated>2017-05-19T04:57:00.927Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/imgs/remembrance01.jpg" alt="">  </p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/imgs/remembrance01.jpg&quot; alt=&quot;&quot;&gt;  &lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="Books" scheme="http://jimoto.github.io/tags/Books/"/>
+    
+      <category term="书法" scheme="http://jimoto.github.io/tags/%E4%B9%A6%E6%B3%95/"/>
+    
+  </entry>
   
   <entry>
     <title>快乐诗词选 008</title>
@@ -261,9 +285,9 @@
     </summary>
     
     
-      <category term="Java" scheme="http://jimoto.github.io/tags/Java/"/>
-    
       <category term="Junit" scheme="http://jimoto.github.io/tags/Junit/"/>
+    
+      <category term="Java" scheme="http://jimoto.github.io/tags/Java/"/>
     
   </entry>
   
@@ -287,9 +311,9 @@
     </summary>
     
     
-      <category term="Java" scheme="http://jimoto.github.io/tags/Java/"/>
-    
       <category term="Junit" scheme="http://jimoto.github.io/tags/Junit/"/>
+    
+      <category term="Java" scheme="http://jimoto.github.io/tags/Java/"/>
     
   </entry>
   
@@ -339,11 +363,11 @@
     </summary>
     
     
+      <category term="Java" scheme="http://jimoto.github.io/tags/Java/"/>
+    
       <category term="Spring" scheme="http://jimoto.github.io/tags/Spring/"/>
     
       <category term="Framework" scheme="http://jimoto.github.io/tags/Framework/"/>
-    
-      <category term="Java" scheme="http://jimoto.github.io/tags/Java/"/>
     
   </entry>
   
